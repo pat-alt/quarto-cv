@@ -7,4 +7,6 @@ contributes:
     html:
       toc: true
       theme: [yeti, custom.scss]
+    pdf:
+      pdf-engine: wkhtmltopdf
 

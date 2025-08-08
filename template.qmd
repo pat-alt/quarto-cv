@@ -1,16 +1,48 @@
 ---
-title: Untitled
+title: "Curriculum Vitae"
+date: last-modified
+author: 
+  - name: Patrick Altmeyer
+    url: www.patalt.org
+    orcid: 0000-0003-4726-8613
+    affiliation: 
+      - name: Delft University of Technology
+        url: https://www.tudelft.nl/en/
 format:
   quarto-cv-html: default
-author: pat-alt
-date: last-modified
+  quarto-cv-pdf: default
 ---
 
-## Introduction
+# Relevant Experience
 
-*TODO* Create an example file that demonstrates the formatting and features of your format.
+## Bank of England
 
-## More Information
+### Economist 
 
-You can learn more about controlling the appearance of HTML output here: <https://quarto.org/docs/output-formats/html-basics.html>
+[2018 --- 2020]{.cvdate}
+
+- Co-initiated and led the development of a charting and analysis tool that is still used internally today.
+- Co-authored two research papers with policy implications, of which one was published as [staff working paper](https://www.bankofengland.co.uk/working-paper/2023/yield-curve-sensitivity-to-investor-positioning-around-economic-shocks).
+- Policy briefing work for the [MPC](https://www.bankofengland.co.uk/about/people/monetary-policy-committee) and [FPC](https://www.bankofengland.co.uk/about/people/financial-policy-committee) including data analysis, presentations and speaking notes.
+
+### Postgraduate Intern [2017]{.cvdate}
+
+- Conducted research involving an econometric analysis of a large transaction data set in R.
+- Presented the results and policy implications of this research to internal stakeholders. 
+  
+# Education
+
+## Delft University of Technology
+
+### Ph.D. Computer Science [2021---Present]{.cvdate} 
+
+## Barcelona School of Economics
+
+### Master in Data Science---GPA 8.67/10 [2020---2021]{.cvdate}
+
+### Master in Economics and Finance---GPA 9.03/10 (top student) [2017---2018]{.cvdate}
+
+## The University of Edinburgh
+
+### Master of Arts with Honours in Economics---First Class (among top three students) [2013---2017]{.cvdate}
 
